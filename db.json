@@ -54,5 +54,48 @@
 			"Course": "Finanças Corporativas", 
 			"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Emojione_1F304.svg/200px-Emojione_1F304.svg.png" 
 		}
+	],
+	"grades": 
+	[
+		{
+			"Name": "Primeiro Quiz",
+            		"Date": "02/04/2018",
+            		"Hour": "15h24",
+            		"Discipline": "Cálculo 1",
+            		"Value": "B",
+            		"Total": ""
+		},
+		{
+			"Name": "Segundo Quiz",
+            		"Date": "02/05/2018",
+            		"Hour": "19h33",
+            		"Discipline": "Cálculo 1",
+            		"Value": "C",
+            		"Total": ""
+		},
+		{
+			"Name": "Prova Intermediária 1",
+            		"Date": "01/06/2018",
+            		"Hour": "10h45",
+            		"Discipline": "Cálculo 1",
+            		"Value": "4",
+            		"Total": "5"
+		},
+		{
+            		"Name": "Prova Intermediária 2",
+            		"Date": "02/07/2018",
+            		"Hour": "14h17",
+            		"Discipline": "Cálculo 1",
+            		"Value": "3,5",
+            		"Total": "5"
+		},
+		{
+            		"Name": "Prova Final",
+            		"Date": "01/08/2018",
+            		"Hour": "16h34",
+            		"Discipline": "Cálculo 1",
+            		"Value": "8,5",
+            		"Total": "10"
+		}
 	]
 }
