@@ -101,31 +101,31 @@
 	"faq": 
 	[
 		{
-			"EnrollmentType": "Graduação",
+			"EnrollmentType": "GRADUACAO",
             		"Question": "Como faço para saber se o meu documento está pronto?",
             		"Answer": "Consulte o requerimento pelo Aluno Online em Serviços online > Consulta de requerimentos solicitados > Detalhes. Atenção: Aluno com o curso cancelado não possui acesso à ferramenta.",
             		"Enabled": true
 		},
 		{
-			"EnrollmentType": "Graduação",
+			"EnrollmentType": "GRADUACAO",
             		"Question": "Não recebi o boleto, como faço para ter uma segunda via?",
             		"Answer": "Acesse o Aluno Online > Financeiro > Impressão de boletos.",
             		"Enabled": true
 		},
 		{
-			"EnrollmentType": "Graduação",
+			"EnrollmentType": "GRADUACAO",
             		"Question": "Meu boleto venceu e eu não paguei, como faço para conseguir uma segunda via?",
             		"Answer": "Acesse o Aluno Online > Financeiro > Atualização de boletos.",
             		"Enabled": true
 		},
 		{
-			"EnrollmentType": "Graduação",
+			"EnrollmentType": "GRADUACAO",
             		"Question": "Como consigo a nota fiscal de uma mensalidade?",
             		"Answer": "Acesse o Aluno Online > Financeiro > Nota Fiscal Eletrônica.",
             		"Enabled": true
 		},
 		{
-			"EnrollmentType": "Graduação",
+			"EnrollmentType": "GRADUACAO",
             		"Question": "Como escolher uma disciplina optativa?",
             		"Answer": "Acesse o Aluno Online > Serviços Online > Matrícula Graduação / Stricto sensu> Escolha a optativa.",
             		"Enabled": true
@@ -161,31 +161,31 @@
             		"Enabled": true
 		},
 		{
-			"EnrollmentType": "Mestrado",
+			"EnrollmentType": "MESTRADO",
             		"Question": "Não recebi o boleto, como faço para ter uma segunda via?",
             		"Answer": "Acesse o Aluno Online > Financeiro > Impressão de boletos.",
             		"Enabled": true
 		},
 		{
-			"EnrollmentType": "Mestrado",
+			"EnrollmentType": "MESTRADO",
             		"Question": "Meu boleto venceu e eu não paguei, como faço para conseguir uma segunda via?",
             		"Answer": "Acesse o Aluno Online > Financeiro > Atualização de boletos.",
             		"Enabled": true
 		},
 		{
-			"EnrollmentType": "Mestrado",
+			"EnrollmentType": "MESTRADO",
             		"Question": "Como obter uma nota fiscal de um boleto pago?",
             		"Answer": "Acesse o Aluno Online > Financeiro> Nota Fiscal Eletrônica.",
             		"Enabled": true
 		},
 		{
-			"EnrollmentType": "Mestrado",
+			"EnrollmentType": "MESTRADO",
             		"Question": "Qual é a data e sala do exame?",
             		"Answer": "Você receberá um e-mail do Apoio Acadêmico com essas informações.",
             		"Enabled": true
 		},
 		{
-			"EnrollmentType": "Mestrado",
+			"EnrollmentType": "MESTRADO",
             		"Question": "Como faço para trancar o meu curso?",
             		"Answer": "Acesse o Aluno Online > Serviços Online> Solicitação de Requerimentos > Trancamento Acadêmico ou Trancamento acadêmico + Financeiro. Existem dois tipos de trancamento: o trancamento acadêmico e o trancamento acadêmico + financeiro. A diferença é que quando é trancada a parte financeira, no retorno do aluno o seu plano de pagamento é reajustado em 1,2% por trimestre trancado.",
             		"Enabled": true
