@@ -114,7 +114,7 @@
 		},
 		{
 			"EnrollmentType": "GRADUACAO",
-            		"Question": "Meu boleto venceu e eu não paguei, como faço para conseguir uma segunda via?",
+            		"Question": "Meu boleto venceu e eu não paguei, como faço para conseguir uma segunda via? Meu boleto venceu e eu não paguei, como faço para conseguir uma segunda via?",
             		"Answer": "Acesse o Aluno Online > Financeiro > Atualização de boletos.",
             		"Enabled": true
 		},
