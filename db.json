@@ -97,5 +97,129 @@
             		"Value": "8,5",
             		"Total": "10"
 		}
+	],
+	"faq": 
+	[
+		{
+			"EnrollmentType": "Graduação",
+            		"Question": "Como faço para saber se o meu documento está pronto?",
+            		"Answer": "Consulte o requerimento pelo Aluno Online em Serviços online > Consulta de requerimentos solicitados > Detalhes. Atenção: Aluno com o curso cancelado não possui acesso à ferramenta.",
+            		"Enabled": true
+		},
+		{
+			"EnrollmentType": "Graduação",
+            		"Question": "Não recebi o boleto, como faço para ter uma segunda via?",
+            		"Answer": "Acesse o Aluno Online > Financeiro > Impressão de boletos.",
+            		"Enabled": true
+		},
+		{
+			"EnrollmentType": "Graduação",
+            		"Question": "Meu boleto venceu e eu não paguei, como faço para conseguir uma segunda via?",
+            		"Answer": "Acesse o Aluno Online > Financeiro > Atualização de boletos.",
+            		"Enabled": true
+		},
+		{
+			"EnrollmentType": "Graduação",
+            		"Question": "Como consigo a nota fiscal de uma mensalidade?",
+            		"Answer": "Acesse o Aluno Online > Financeiro > Nota Fiscal Eletrônica.",
+            		"Enabled": true
+		},
+		{
+			"EnrollmentType": "Graduação",
+            		"Question": "Como escolher uma disciplina optativa?",
+            		"Answer": "Acesse o Aluno Online > Serviços Online > Matrícula Graduação / Stricto sensu> Escolha a optativa.",
+            		"Enabled": true
+		},
+		{
+			"EnrollmentType": "Pós",
+            		"Question": "Como eu solicito desistência de uma disciplina?",
+            		"Answer": "A solicitação deve ser feita através do Aluno Online > Serviços Online> Solicitação de Requerimentos > Desistência de Matrícula em Disciplina, dentro do prazo estipulado no Calendário de Prazos, disponível no portal do aluno.",
+            		"Enabled": true
+		},
+		{
+			"EnrollmentType": "Pós",
+            		"Question": "Não recebi o boleto, como faço para ter uma segunda via?",
+            		"Answer": "Acesse o Aluno Online > Financeiro > Impressão de boletos.",
+            		"Enabled": true
+		},
+		{
+			"EnrollmentType": "Pós",
+            		"Question": "Meu boleto venceu e eu não paguei, como faço para conseguir uma segunda via?",
+            		"Answer": "Acesse o Aluno Online > Financeiro > Atualização de boletos.",
+            		"Enabled": true
+		},
+		{
+			"EnrollmentType": "Pós",
+            		"Question": "Como obter uma nota fiscal de um boleto pago?",
+            		"Answer": "Acesse o Aluno Online > Financeiro > Nota Fiscal Eletrônica.",
+            		"Enabled": true
+		},
+		{
+			"EnrollmentType": "Pós",
+            		"Question": "Quantas faltas posso ter em cada disciplina?",
+            		"Answer": "Disciplinas com até 15 horas é permitida 1 (uma) falta, disciplinas com 30 horas são permitidas até 2 (duas) faltas.",
+            		"Enabled": true
+		},
+		{
+			"EnrollmentType": "Mestrado",
+            		"Question": "Não recebi o boleto, como faço para ter uma segunda via?",
+            		"Answer": "Acesse o Aluno Online > Financeiro > Impressão de boletos.",
+            		"Enabled": true
+		},
+		{
+			"EnrollmentType": "Mestrado",
+            		"Question": "Meu boleto venceu e eu não paguei, como faço para conseguir uma segunda via?",
+            		"Answer": "Acesse o Aluno Online > Financeiro > Atualização de boletos.",
+            		"Enabled": true
+		},
+		{
+			"EnrollmentType": "Mestrado",
+            		"Question": "Como obter uma nota fiscal de um boleto pago?",
+            		"Answer": "Acesse o Aluno Online > Financeiro> Nota Fiscal Eletrônica.",
+            		"Enabled": true
+		},
+		{
+			"EnrollmentType": "Mestrado",
+            		"Question": "Qual é a data e sala do exame?",
+            		"Answer": "Você receberá um e-mail do Apoio Acadêmico com essas informações.",
+            		"Enabled": true
+		},
+		{
+			"EnrollmentType": "Mestrado",
+            		"Question": "Como faço para trancar o meu curso?",
+            		"Answer": "Acesse o Aluno Online > Serviços Online> Solicitação de Requerimentos > Trancamento Acadêmico ou Trancamento acadêmico + Financeiro. Existem dois tipos de trancamento: o trancamento acadêmico e o trancamento acadêmico + financeiro. A diferença é que quando é trancada a parte financeira, no retorno do aluno o seu plano de pagamento é reajustado em 1,2% por trimestre trancado.",
+            		"Enabled": true
+		},
+		{
+			"EnrollmentType": "Executiva",
+            		"Question": "Não recebi o boleto, como faço para ter uma segunda via?",
+            		"Answer": "Acesse o Aluno Online > Financeiro> Impressão de boletos.",
+            		"Enabled": true
+		},
+		{
+			"EnrollmentType": "Executiva",
+            		"Question": "Meu boleto venceu e eu não paguei, como faço para conseguir uma segunda via?",
+            		"Answer": "Acesse o Aluno Online> Financeiro> Atualização de boletos.",
+            		"Enabled": true
+		},
+		{
+			"EnrollmentType": "Executiva",
+            		"Question": "Como consigo a nota fiscal de um boleto pago?",
+            		"Answer": "Acesse o Aluno Online > Financeiro > Nota Fiscal Eletrônica.",
+            		"Enabled": true
+		},
+		{
+			"EnrollmentType": "Executiva",
+            		"Question": "Como faço para cancelar meu curso?",
+            		"Answer": "Assim que solicitado o cancelamento no Atendimento ao Aluno, será encaminhado a você um um Formulário de Cancelamento, preencha esse formulário e nos devolva para darmos andamento em sua solicitação.",
+            		"Enabled": true
+		},
+		{
+			"EnrollmentType": "Executiva",
+            		"Question": "Como faço para fazer transferência para o próximo curso? ",
+            		"Answer": "Se o pedido de transferência ocorrer em até 10 dias antes do início da aula, é possível fazer a transferência, após esse prazo, só é possível cancelar o curso.",
+            		"Enabled": true
+		}
+
 	]
 }
